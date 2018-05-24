@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" class="animate-svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-262 354 86.4 85"
+	 style="enable-background:new -262 354 86.4 85;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2.88;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2.88;stroke-linecap:round;stroke-dasharray:4.32;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:2.88;stroke-linecap:round;} 
+    .animate-svg path{
+	     transition: stroke-dashoffset 2s ease-in-out,opacity 0.3s!important;
+	     opacity:0!important;
+    }
+    .animate-svg path.path-animated{
+    	stroke-dashoffset : 0!important;
+    	opacity:1!important;
+    }
+</style>
+<title>126 - Vector (Outline)</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="_x31_26---Vector-_x28_Outline_x29_" transform="translate(1.000000, 1.000000)" sketch:type="MSLayerGroup">
+		<path id="Stroke-9" sketch:type="MSShapeGroup" class="st0" d="M-549.8,750.2h8.6v8.6h-8.6V750.2z M-474.9,750.2h8.6v8.6h-8.6
+			V750.2z M-512.3,708.5h8.6v8.6h-8.6V708.5z"/>
+		<path id="Path" sketch:type="MSShapeGroup" class="st1" d="M-470.6,750.2c0-19.2-14.5-35-33.1-37.2v4.1h-8.6V713
+			c-18.6,2.1-33.1,18-33.1,37.2"/>
+		<path id="Stroke-10" sketch:type="MSShapeGroup" class="st2" d="M-541.1,712.8c0,2.4-1.9,4.3-4.3,4.3c-2.4,0-4.3-1.9-4.3-4.3
+			s1.9-4.3,4.3-4.3C-543,708.5-541.1,710.4-541.1,712.8L-541.1,712.8z M-466.2,712.8c0,2.4-1.9,4.3-4.3,4.3s-4.3-1.9-4.3-4.3
+			s1.9-4.3,4.3-4.3S-466.2,710.4-466.2,712.8L-466.2,712.8z M-541.1,712.8h28.8H-541.1z M-503.7,712.8h28.8H-503.7z M-497.9,776.1
+			h-20.2V770c0-5.4-4.4-9.7-9.7-9.7h-4.7l24.5-37.4l24.5,37.4h-4.7c-5.4,0-9.7,4.4-9.7,9.7L-497.9,776.1L-497.9,776.1z M-508,722.9
+			v31.7V722.9z M-518.1,776.1h20.2v7.2h-20.2V776.1z M-515.2,783.3h14.4v7.2h-14.4V783.3z M-503.7,758.9c0,2.4-1.9,4.3-4.3,4.3
+			s-4.3-1.9-4.3-4.3c0-2.4,1.9-4.3,4.3-4.3S-503.7,756.5-503.7,758.9L-503.7,758.9z M-508,724.3v-2.9V724.3z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" class="animate-svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-291 357.9 72 77.8"
+	 style="enable-background:new -291 357.9 72 77.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2.88;stroke-linecap:round;stroke-linejoin:round;}
+	.animate-svg path{
+	     transition: stroke-dashoffset 2s ease-in-out,opacity 0.3s!important;
+	     opacity:0!important;
+    }
+    .animate-svg path.path-animated{
+    	stroke-dashoffset : 0!important;
+    	opacity:1!important;
+    }
+</style>
+<title>181 - Idea (Outline)</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="_x31_81---Idea-_x28_Outline_x29_" transform="translate(1.000000, 1.000000)" sketch:type="MSLayerGroup">
+		<path id="Stroke-702" sketch:type="MSShapeGroup" class="st0" d="M-256,369.9c-12.7,0-23,10.3-23,23c0,10.2,6.6,18.9,15.8,21.9
+			v14.1h2.9v4.3h8.6v-4.3h2.9v-14.1c9.2-3,15.8-11.7,15.8-21.9C-233,380.2-243.3,369.9-256,369.9L-256,369.9z"/>
+		<path id="Stroke-704" sketch:type="MSShapeGroup" class="st0" d="M-263.2,418.8h14.4"/>
+		<path id="Stroke-706" sketch:type="MSShapeGroup" class="st0" d="M-256,358.3v5.8"/>
+		<path id="Stroke-708" sketch:type="MSShapeGroup" class="st0" d="M-221.4,392.9h-5.8"/>
+		<path id="Stroke-710" sketch:type="MSShapeGroup" class="st0" d="M-284.8,392.9h-5.8"/>
+		<path id="Stroke-712" sketch:type="MSShapeGroup" class="st0" d="M-231.6,368.5l-4.1,4.1"/>
+		<path id="Stroke-714" sketch:type="MSShapeGroup" class="st0" d="M-276.4,413.3l-4.1,4.1"/>
+		<path id="Stroke-716" sketch:type="MSShapeGroup" class="st0" d="M-231.6,417.3l-4.1-4.1"/>
+		<path id="Stroke-718" sketch:type="MSShapeGroup" class="st0" d="M-276.4,372.5l-4.1-4.1"/>
+		<path id="Stroke-720" sketch:type="MSShapeGroup" class="st0" d="M-271.8,392.9c0-8.7,7.1-15.8,15.8-15.8"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" class="animate-svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-812.2 1074.3 86.5 77.8" style="enable-background:new -812.2 1074.3 86.5 77.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2.88;stroke-linecap:round;stroke-linejoin:round;}
+	.animate-svg path{
+	     transition: stroke-dashoffset 2s ease-in-out,opacity 0.3s!important;
+	     opacity:0!important;
+    }
+    .animate-svg path.path-animated{
+    	stroke-dashoffset : 0!important;
+    	opacity:1!important;
+    }
+</style>
+<title>102 - Diamond (Outline)</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="_x31_02---Diamond-_x28_Outline_x29_" transform="translate(1.000000, 1.000000)" sketch:type="MSLayerGroup">
+		<path id="Stroke-494" sketch:type="MSShapeGroup" class="st0" d="M-770,1149.6l-41.8-51.8h83.5L-770,1149.6L-770,1149.6z
+			 M-728.2,1097.8h-83.5l14.4-23h54.7L-728.2,1097.8L-728.2,1097.8z M-797.4,1074.7l27.4,74.9L-797.4,1074.7z M-742.6,1074.7
+			l-27.4,73.4L-742.6,1074.7z M-788.7,1097.8l18.7-23L-788.7,1097.8z M-751.3,1097.8l-18.7-23L-751.3,1097.8z"/>
+	</g>
+</g>
+</svg>

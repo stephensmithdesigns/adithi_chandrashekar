@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="59px" class="animate-svg" viewBox="0 0 60 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+	<style type="text/css">
+		.animate-svg path{
+         transition: stroke-dashoffset 2s ease-in-out,opacity 0.3s,fill 400ms,stroke 400ms!important;
+         opacity:0!important;
+        }
+        .animate-svg path.path-animated{
+        	stroke-dashoffset : 0!important;
+        	opacity:1!important;
+        }
+	</style>
+    <title>126 - Vector (Outline)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="126---Vector-(Outline)" sketch:type="MSLayerGroup" stroke="#000000" stroke-width="2" transform="translate(1.000000, 1.000000)">
+            <path d="M0,29 L6,29 L6,35 L0,35 L0,29 Z M52,29 L58,29 L58,35 L52,35 L52,29 Z M26,0 L32,0 L32,6 L26,6 L26,0 Z" id="Stroke-9" sketch:type="MSShapeGroup"></path>
+            <path d="M55,29 C55,15.656 44.945,4.666 32,3.178 L32,6 L26,6 L26,3.178 C13.055,4.666 3,15.656 3,29" id="Path" stroke-linecap="round" stroke-dasharray="3" sketch:type="MSShapeGroup"></path>
+            <path d="M6,3 C6,4.657 4.657,6 3,6 C1.343,6 0,4.657 0,3 C0,1.343 1.343,0 3,0 C4.657,0 6,1.343 6,3 L6,3 Z M58,3 C58,4.657 56.657,6 55,6 C53.343,6 52,4.657 52,3 C52,1.343 53.343,0 55,0 C56.657,0 58,1.343 58,3 L58,3 Z M6,3 L26,3 L6,3 Z M32,3 L52,3 L32,3 Z M36,47 L22,47 L22,42.756 C22,39.025 18.975,36 15.244,36 L12,36 L29,10 L46,36 L42.756,36 C39.025,36 36,39.025 36,42.756 L36,47 L36,47 Z M29,10 L29,32 L29,10 Z M22,47 L36,47 L36,52 L22,52 L22,47 Z M24,52 L34,52 L34,57 L24,57 L24,52 Z M32,35 C32,36.657 30.657,38 29,38 C27.343,38 26,36.657 26,35 C26,33.343 27.343,32 29,32 C30.657,32 32,33.343 32,35 L32,35 Z M29,11 L29,9 L29,11 Z" id="Stroke-10" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
