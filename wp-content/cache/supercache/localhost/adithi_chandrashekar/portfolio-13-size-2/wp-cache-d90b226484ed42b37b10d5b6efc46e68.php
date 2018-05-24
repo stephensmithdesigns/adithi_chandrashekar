@@ -226,7 +226,7 @@ window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overl
                 <div class="color-overlay color-type"></div>
                                 <div id="post-1611" class="content-container post-1611 page type-page status-publish hentry" >
                 
-    <div id="rowCustom-5b069617aee2b" class="no-bg-image vc_row wpb_row mBuilder-element  controls-in   sectionOverlay vc_general vc_parallax vc_parallax- full_size "  data-mBuilder-id="1" data-col-layout="12/12" data-bgcolor=" rgba(255,255,255,1)" >
+    <div id="rowCustom-5b06ad98edc7d" class="no-bg-image vc_row wpb_row mBuilder-element  controls-in   sectionOverlay vc_general vc_parallax vc_parallax- full_size "  data-mBuilder-id="1" data-col-layout="12/12" data-bgcolor=" rgba(255,255,255,1)" >
         
         <script type="text/javascript">
 "use strict";
@@ -236,33 +236,33 @@ if(typeof $ != 'function'){
 $ = jQuery;
 }
 var isChrome = window.chrome,
-$rowCustom_5b069617aee2b = $("#rowCustom-5b069617aee2b");
-$rowCustom_5b069617aee2b.find('.row-image').remove();
-$rowCustom_5b069617aee2b.append(
+$rowCustom_5b06ad98edc7d = $("#rowCustom-5b06ad98edc7d");
+$rowCustom_5b06ad98edc7d.find('.row-image').remove();
+$rowCustom_5b06ad98edc7d.append(
 '<div class="row-image row-image-normal "> </div>'
 );
 if (!("")) {
-$rowCustom_5b069617aee2b.find('.row-image').remove();
+$rowCustom_5b06ad98edc7d.find('.row-image').remove();
 }
 if (typeof pixflow_fitRowToHeight == 'function') {
 pixflow_fitRowToHeight();
 }
 if (isChrome){
-$rowCustom_5b069617aee2b.find(".row-image-fixed").append('<Style> .row-image-fixed:after{position:fixed; background-attachment:inherit;}</style>');
+$rowCustom_5b06ad98edc7d.find(".row-image-fixed").append('<Style> .row-image-fixed:after{position:fixed; background-attachment:inherit;}</style>');
 }
 });
 </script>
 
 
         <!-- Set background image -->
-        <style >    #rowCustom-5b069617aee2b .row-image{    background-position:center center;}    </style>
+        <style >    #rowCustom-5b06ad98edc7d .row-image{    background-position:center center;}    </style>
 
                         <script type="text/javascript">
 "use strict";
 var $ = jQuery;
-var $rowCustom_5b069617aee2b = $('#rowCustom-5b069617aee2b');
-if($rowCustom_5b069617aee2b.find('.sloped-edge').length){
-$rowCustom_5b069617aee2b.find('.sloped-edge').remove();
+var $rowCustom_5b06ad98edc7d = $('#rowCustom-5b06ad98edc7d');
+if($rowCustom_5b06ad98edc7d.find('.sloped-edge').length){
+$rowCustom_5b06ad98edc7d.find('.sloped-edge').remove();
 }
 </script>
             
@@ -270,13 +270,13 @@ $rowCustom_5b069617aee2b.find('.sloped-edge').remove();
 
             
     <div class='wpb_column vc_column_container    col-sm-12'>
-        <div class='vc_column-inner md_col-5b069617aef15'>
+        <div class='vc_column-inner md_col-5b06ad98edd9d'>
             <div class='wpb_wrapper'>
-                <style data-type="mBuilderInternal"> div.vc_column_container>.vc_column-inner.md_col-5b069617aef15{}</style>
+                <style data-type="mBuilderInternal"> div.vc_column_container>.vc_column-inner.md_col-5b06ad98edd9d{}</style>
                 
-    <div class='vc_empty_space gizmo-container small-gizmo no-setting-gizmo no-animation-gizmo clearfix empty_space_5b069617aef7c' style='height:100px'></div>
-        <style > body:not(.compose-mode) .portfolio.inside .item-wrap.portfolio-popup, body:not(.compose-mode) .outside .item-image.portfolio-popup{cursor:url(http://localhost:8888/adithi_chandrashekar/wp-content/themes/massive-dynamic/assets/img/popup-cursor.png) 25 25,auto;}.portfolio-multisize-5b069617aeff5 .md_portfolio_counter{background-color:#af72ff; color:#ffffff;}.portfolio-multisize-5b069617aeff5 .filter, .portfolio-multisize-5b069617aeff5 .title{float:none;}.portfolio-multisize-5b069617aeff5 .heading{text-align:center;}.portfolio-multisize-5b069617aeff5 .filter a{color:rgba(0,0,0,0.5)}.portfolio-multisize-5b069617aeff5 .title, .portfolio-multisize-5b069617aeff5 .filter li.current a{color:rgba(0,0,0,1)}.portfolio-multisize-5b069617aeff5 .item-title a, .portfolio-multisize-5b069617aeff5 .item-category, .portfolio-multisize-5b069617aeff5 .like-heart, .portfolio-multisize-5b069617aeff5 .like-count{color:rgb(255, 255, 255)}.portfolio-multisize-5b069617aeff5 .overlay-background{background-color:rgb(245, 191, 63)}.portfolio-multisize-5b069617aeff5 .item-image div{background-color:#fff}.portfolio-multisize-5b069617aeff5 .line{background-color:rgb(255, 255, 255)}.portfolio-multisize-5b069617aeff5 .heading{padding:0 4px;}</style>
-    <div class="portfolio portfolio-multisize gizmo-container portfolio-multisize-5b069617aeff5 inside  " data-id="portfolio-multisize-5b069617aeff5" data-items-padding="4" >
+    <div class='vc_empty_space gizmo-container small-gizmo no-setting-gizmo no-animation-gizmo clearfix empty_space_5b06ad98ede6c' style='height:100px'></div>
+        <style > body:not(.compose-mode) .portfolio.inside .item-wrap.portfolio-popup, body:not(.compose-mode) .outside .item-image.portfolio-popup{cursor:url(http://localhost:8888/adithi_chandrashekar/wp-content/themes/massive-dynamic/assets/img/popup-cursor.png) 25 25,auto;}.portfolio-multisize-5b06ad98edee3 .md_portfolio_counter{background-color:#af72ff; color:#ffffff;}.portfolio-multisize-5b06ad98edee3 .filter, .portfolio-multisize-5b06ad98edee3 .title{float:none;}.portfolio-multisize-5b06ad98edee3 .heading{text-align:center;}.portfolio-multisize-5b06ad98edee3 .filter a{color:rgba(0,0,0,0.5)}.portfolio-multisize-5b06ad98edee3 .title, .portfolio-multisize-5b06ad98edee3 .filter li.current a{color:rgba(0,0,0,1)}.portfolio-multisize-5b06ad98edee3 .item-title a, .portfolio-multisize-5b06ad98edee3 .item-category, .portfolio-multisize-5b06ad98edee3 .like-heart, .portfolio-multisize-5b06ad98edee3 .like-count{color:rgb(255, 255, 255)}.portfolio-multisize-5b06ad98edee3 .overlay-background{background-color:rgb(245, 191, 63)}.portfolio-multisize-5b06ad98edee3 .item-image div{background-color:#fff}.portfolio-multisize-5b06ad98edee3 .line{background-color:rgb(255, 255, 255)}.portfolio-multisize-5b06ad98edee3 .heading{padding:0 4px;}</style>
+    <div class="portfolio portfolio-multisize gizmo-container portfolio-multisize-5b06ad98edee3 inside  " data-id="portfolio-multisize-5b06ad98edee3" data-items-padding="4" >
                     <div class="heading clearfix">
 
                                     <div class="filter no" >
@@ -448,11 +448,11 @@ $rowCustom_5b069617aee2b.find('.sloped-edge').remove();
     </div>
 
             </div>
-            <style> #button-5b069617bea37.shortcode-btn{overflow:hidden;}#button-5b069617bea37.shortcode-btn .button-standard.animation{padding:12px 172px 12px 181px;}#button-5b069617bea37.shortcode-btn .button-small.animation{padding:11px 174px;}.button-5b069617bea37.animation:after{background-color :rgb(78, 78, 78);}.button-5b069617bea37.animation{color:rgba(78,78,78,0.7);;}.button-5b069617bea37.animation:hover{color:rgba(78,78,78,1);; border-color:rgba(78,78,78,1);;}</style>
+            <style> #button-5b06ad990a3b5.shortcode-btn{overflow:hidden;}#button-5b06ad990a3b5.shortcode-btn .button-standard.animation{padding:12px 172px 12px 181px;}#button-5b06ad990a3b5.shortcode-btn .button-small.animation{padding:11px 174px;}.button-5b06ad990a3b5.animation:after{background-color :rgb(78, 78, 78);}.button-5b06ad990a3b5.animation{color:rgba(78,78,78,0.7);;}.button-5b06ad990a3b5.animation:hover{color:rgba(78,78,78,1);; border-color:rgba(78,78,78,1);;}</style>
 
-    <div id="button-5b069617bea37" class="shortcode-btn  " >
+    <div id="button-5b06ad990a3b5" class="shortcode-btn  " >
         
-            <a class="button animation button-standard button-5b069617bea37" href="#" target="_self" >
+            <a class="button animation button-standard button-5b06ad990a3b5" href="#" target="_self" >
                 <span>
                     LOAD MORE                </span>
                                     <i class="button-icon icon-plus6"></i>
@@ -464,13 +464,13 @@ $rowCustom_5b069617aee2b.find('.sloped-edge').remove();
                 <script>
 "use strict";
 var $ = (jQuery),
-$button = $('#button-5b069617bea37');
+$button = $('#button-5b06ad990a3b5');
 $button.parents('.wpb_wrapper').css({'text-align':'center'});
 </script>
 
     
 
-                <div class="loadmore-button md-hidden" data-portfolio-id="portfolio-multisize-5b069617aeff5" data-startPage="1" data-maxPages="7" data-nextLink="http://localhost:8888/adithi_chandrashekar/portfolio-13-size-2/page/2/" data-loadMoreText="LOAD MORE" data-loadingText="Loading ..." data-noMorePostText="No More Items">
+                <div class="loadmore-button md-hidden" data-portfolio-id="portfolio-multisize-5b06ad98edee3" data-startPage="1" data-maxPages="7" data-nextLink="http://localhost:8888/adithi_chandrashekar/portfolio-13-size-2/page/2/" data-loadMoreText="LOAD MORE" data-loadingText="Loading ..." data-noMorePostText="No More Items">
                 <div class="portfolio-pagination container">
                     <div class="post-pagination"><a class="prev-page-link" href="http://localhost:8888/adithi_chandrashekar/portfolio-13-size-2/page/2/"><span class="prev-page"></span><span class="text">PREVIOUS POSTS</span></a><span class="page-num">Page 1 of 7</span><a class="no-next-page" href="#"><span class="text">NO NEW POSTS</span><span class="next-page"></span></a><div class="clearfix"></div><a class="pagination-border"></a><a class="post-pagination-hover"></a></div><!-- post-pagination -->                </div>
             </div>
@@ -479,7 +479,7 @@ $button.parents('.wpb_wrapper').css({'text-align':'center'});
 var $ = jQuery;
 $(function(){
 if ( typeof pixflow_portfolioMultisize == 'function' ){
-$('.portfolio-multisize-5b069617aeff5 .item').each(function(){
+$('.portfolio-multisize-5b06ad98edee3 .item').each(function(){
 var item = $('<div></div>');
 item.attr('class',$(this).attr('class'));
 item.attr('data-item_id',$(this).attr('data-item_id'));
@@ -502,27 +502,27 @@ catch(e){
     
             <script>
 var $ = jQuery;
-var $rowCustom_5b069617aee2b = $('#rowCustom-5b069617aee2b');
+var $rowCustom_5b06ad98edc7d = $('#rowCustom-5b06ad98edc7d');
 if ( "1" )
 {
-$rowCustom_5b069617aee2b.find('> .wrap').addClass('box_size_container');
-$rowCustom_5b069617aee2b.find('> .wrap').addClass('box_size_container');
+$rowCustom_5b06ad98edc7d.find('> .wrap').addClass('box_size_container');
+$rowCustom_5b06ad98edc7d.find('> .wrap').addClass('box_size_container');
 }
 else
 {
-$rowCustom_5b069617aee2b.find('> .wrap').removeClass('box_size_container');
-$rowCustom_5b069617aee2b.find('> .wrap').removeClass('box_size_container');
+$rowCustom_5b06ad98edc7d.find('> .wrap').removeClass('box_size_container');
+$rowCustom_5b06ad98edc7d.find('> .wrap').removeClass('box_size_container');
 }
 
-$('#rowCustom-5b069617aee2b').find('.row-videobg').not('.row-videobg[data-row-id="rowCustom-5b069617aee2b"]').remove();
+$('#rowCustom-5b06ad98edc7d').find('.row-videobg').not('.row-videobg[data-row-id="rowCustom-5b06ad98edc7d"]').remove();
 </script>
 
         </div> <!-- End wrap -->
 
-        <style >    #rowCustom-5b069617aee2b{  margin-top:0px;margin-bottom:0px;} #rowCustom-5b069617aee2b{  padding-top:0px;padding-bottom:50px;padding-right:0px;padding-left:0px;} .sectionOverlay.box_size{ width:88%} .sectionOverlay .box_size_container{ width:88%} #rowCustom-5b069617aee2b:after{  background-color:rgba(255,255,255,1)}   </style>
+        <style >    #rowCustom-5b06ad98edc7d{  margin-top:0px;margin-bottom:0px;} #rowCustom-5b06ad98edc7d{  padding-top:0px;padding-bottom:50px;padding-right:0px;padding-left:0px;} .sectionOverlay.box_size{ width:88%} .sectionOverlay .box_size_container{ width:88%} #rowCustom-5b06ad98edc7d:after{  background-color:rgba(255,255,255,1)}   </style>
     </div> <!-- End main row -->
     
-    <div id="rowCustom-5b069617bf06d" class="no-bg-image vc_row wpb_row mBuilder-element vc_row wpb_row mBuilder-element    sectionOverlay vc_general vc_parallax vc_parallax- full_size "  data-mBuilder-id="2" data-col-layout="12/12" data-bgcolor=" rgb(255, 106, 58)" >
+    <div id="rowCustom-5b06ad990acbc" class="no-bg-image vc_row wpb_row mBuilder-element vc_row wpb_row mBuilder-element    sectionOverlay vc_general vc_parallax vc_parallax- full_size "  data-mBuilder-id="2" data-col-layout="12/12" data-bgcolor=" rgb(255, 106, 58)" >
         
         <script type="text/javascript">
 "use strict";
@@ -532,33 +532,33 @@ if(typeof $ != 'function'){
 $ = jQuery;
 }
 var isChrome = window.chrome,
-$rowCustom_5b069617bf06d = $("#rowCustom-5b069617bf06d");
-$rowCustom_5b069617bf06d.find('.row-image').remove();
-$rowCustom_5b069617bf06d.append(
+$rowCustom_5b06ad990acbc = $("#rowCustom-5b06ad990acbc");
+$rowCustom_5b06ad990acbc.find('.row-image').remove();
+$rowCustom_5b06ad990acbc.append(
 '<div class="row-image row-image-normal "> </div>'
 );
 if (!("")) {
-$rowCustom_5b069617bf06d.find('.row-image').remove();
+$rowCustom_5b06ad990acbc.find('.row-image').remove();
 }
 if (typeof pixflow_fitRowToHeight == 'function') {
 pixflow_fitRowToHeight();
 }
 if (isChrome){
-$rowCustom_5b069617bf06d.find(".row-image-fixed").append('<Style> .row-image-fixed:after{position:fixed; background-attachment:inherit;}</style>');
+$rowCustom_5b06ad990acbc.find(".row-image-fixed").append('<Style> .row-image-fixed:after{position:fixed; background-attachment:inherit;}</style>');
 }
 });
 </script>
 
 
         <!-- Set background image -->
-        <style >    #rowCustom-5b069617bf06d .row-image{    background-position:center center;}    </style>
+        <style >    #rowCustom-5b06ad990acbc .row-image{    background-position:center center;}    </style>
 
                         <script type="text/javascript">
 "use strict";
 var $ = jQuery;
-var $rowCustom_5b069617bf06d = $('#rowCustom-5b069617bf06d');
-if($rowCustom_5b069617bf06d.find('.sloped-edge').length){
-$rowCustom_5b069617bf06d.find('.sloped-edge').remove();
+var $rowCustom_5b06ad990acbc = $('#rowCustom-5b06ad990acbc');
+if($rowCustom_5b06ad990acbc.find('.sloped-edge').length){
+$rowCustom_5b06ad990acbc.find('.sloped-edge').remove();
 }
 </script>
             
@@ -566,12 +566,12 @@ $rowCustom_5b069617bf06d.find('.sloped-edge').remove();
 
             
     <div class='wpb_column vc_column_container    col-sm-12'>
-        <div class='vc_column-inner md_col-5b069617bf121'>
+        <div class='vc_column-inner md_col-5b06ad990addc'>
             <div class='wpb_wrapper'>
-                <style data-type="mBuilderInternal"> div.vc_column_container>.vc_column-inner.md_col-5b069617bf121{padding-right:100px !important;}</style>
+                <style data-type="mBuilderInternal"> div.vc_column_container>.vc_column-inner.md_col-5b06ad990addc{padding-right:100px !important;}</style>
                 
-    <div class='vc_empty_space gizmo-container small-gizmo no-setting-gizmo no-animation-gizmo clearfix empty_space_5b069617bf183' style='height:10px'></div>
-        <div id="md-live-text-5b069617bf1db" class="md-live-text md-live-text-new gizmo-container  5b069617bf1db  md-align-center" >
+    <div class='vc_empty_space gizmo-container small-gizmo no-setting-gizmo no-animation-gizmo clearfix empty_space_5b06ad990aeb4' style='height:10px'></div>
+        <div id="md-live-text-5b06ad990af5e" class="md-live-text md-live-text-new gizmo-container  5b06ad990af5e  md-align-center" >
         <div class="live-text-container">
             <div class="meditor meditor-responsive  inline-md-editor meditor-responsive" style="line-height:1.2em;letter-spacing:0px" data-letterspace="0" data-lineheight="1.2">
                 <div>
@@ -653,24 +653,24 @@ $rowCustom_5b069617bf06d.find('.sloped-edge').remove();
     
             <script>
 var $ = jQuery;
-var $rowCustom_5b069617bf06d = $('#rowCustom-5b069617bf06d');
+var $rowCustom_5b06ad990acbc = $('#rowCustom-5b06ad990acbc');
 if ( "1" )
 {
-$rowCustom_5b069617bf06d.find('> .wrap').addClass('box_size_container');
-$rowCustom_5b069617bf06d.find('> .wrap').addClass('box_size_container');
+$rowCustom_5b06ad990acbc.find('> .wrap').addClass('box_size_container');
+$rowCustom_5b06ad990acbc.find('> .wrap').addClass('box_size_container');
 }
 else
 {
-$rowCustom_5b069617bf06d.find('> .wrap').removeClass('box_size_container');
-$rowCustom_5b069617bf06d.find('> .wrap').removeClass('box_size_container');
+$rowCustom_5b06ad990acbc.find('> .wrap').removeClass('box_size_container');
+$rowCustom_5b06ad990acbc.find('> .wrap').removeClass('box_size_container');
 }
 
-$('#rowCustom-5b069617bf06d').find('.row-videobg').not('.row-videobg[data-row-id="rowCustom-5b069617bf06d"]').remove();
+$('#rowCustom-5b06ad990acbc').find('.row-videobg').not('.row-videobg[data-row-id="rowCustom-5b06ad990acbc"]').remove();
 </script>
 
         </div> <!-- End wrap -->
 
-        <style >    #rowCustom-5b069617bf06d{  margin-top:0px;margin-bottom:0px;} #rowCustom-5b069617bf06d{  padding-top:220px;padding-bottom:220px;padding-right:0px;padding-left:0px;} .sectionOverlay.box_size{ width:88%} .sectionOverlay .box_size_container{ width:88%} #rowCustom-5b069617bf06d:after{  background-color:rgb(255, 106, 58)}   </style>
+        <style >    #rowCustom-5b06ad990acbc{  margin-top:0px;margin-bottom:0px;} #rowCustom-5b06ad990acbc{  padding-top:220px;padding-bottom:220px;padding-right:0px;padding-left:0px;} .sectionOverlay.box_size{ width:88%} .sectionOverlay .box_size_container{ width:88%} #rowCustom-5b06ad990acbc:after{  background-color:rgb(255, 106, 58)}   </style>
     </div> <!-- End main row -->
                 </div>
                         </div>
@@ -714,13 +714,13 @@ $('#rowCustom-5b069617bf06d').find('.row-videobg').not('.row-videobg[data-row-id
 <link rel='stylesheet' id='vc_google_text_fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%7CRaleway%3A400%2C200%2C300%2C700%7CMontserrat%3A700&#038;ver=4.9.5' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
-var ajax_var = {"url":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-admin\/admin-ajax.php","nonce":"974d9b8dd3","uniqueSettings":"[\"site_width\",\"site_top\",\"site_bg\",\"site_bg_type\",\"site_bg_color_type\",\"site_bg_solid_color\",\"site_bg_gradient_orientation\",\"site_bg_gradient_color1\",\"site_bg_gradient_color2\",\"site_bg_image_image\",\"site_bg_image_repeat\",\"site_bg_image_attach\",\"site_bg_image_position\",\"site_bg_image_size\",\"site_bg_image_opacity\",\"site_bg_image_overlay\",\"site_bg_image_overlay_type\",\"site_bg_image_solid_overlay\",\"site_bg_overlay_gradient_orientation\",\"site_bg_overlay_gradient_color1\",\"site_bg_overlay_gradient_color2\",\"site_bg_texture\",\"site_bg_texture_opacity\",\"site_bg_texture_overlay\",\"site_bg_texture_solid_overlay\",\"header_position\",\"header_top_position\",\"header_theme\",\"header_side_theme\",\"logotop_logoSpace\",\"classic_style\",\"block_style\",\"gather_style\",\"header_side_align\",\"header_side_footer\",\"header_styles\",\"show_up_after\",\"show_up_style\",\"header_top_width\",\"header-top-height\",\"header-side-width\",\"header-content\",\"menu_item_style\",\"header_items_order\",\"nav_color\",\"nav_hover_color\",\"header_bg_color_type\",\"header_bg_solid_color\",\"header_bg_gradient_orientation\",\"header_bg_gradient_color1\",\"header_bg_gradient_color2\",\"logo_style\",\"header_border_enable\",\"nav_color_second\",\"nav_hover_color_second\",\"header_bg_color_type_second\",\"header_bg_solid_color_second\",\"header_bg_gradient_second_orientation\",\"header_bg_gradient_second_color1\",\"header_bg_gradient_second_color2\",\"logo_style_second\",\"popup_menu\",\"popup_menu_color\",\"overlay_bg\",\"header_side_image_image\",\"header_side_image_repeat\",\"header_side_image_position\",\"header_side_image_size\",\"menu_button_style\",\"button_bg_color\",\"button_text_color\",\"button_hover_text_color\",\"button_hover_bg_color\",\"dropdown_bg_solid_color\",\"dropdown_heading_solid_color\",\"dropdown_fg_solid_color\",\"dropdown_fg_hover_color\",\"businessBar_enable\",\"businessBar_style\",\"businessBar_social\",\"businessBar_content_color\",\"businessBar_bg_color\",\"businessBar_address\",\"businessBar_tel\",\"businessBar_email\",\"nav_name\",\"nav_size\",\"nav_weight\",\"nav_letterSpace\",\"nav_style\",\"main-width\",\"mainC-width\",\"main-top\",\"mainC-padding\",\"main_bg\",\"main_bg_color_type\",\"main_bg_solid_color\",\"main_bg_gradient_orientation\",\"main_bg_gradient_color1\",\"main_bg_gradient_color2\",\"footer_widgets_styles\",\"footer_widget_area_height\",\"footer_bottom_area_height\",\"footer-width\",\"footerC-width\",\"footer-marginT\",\"footer-marginB\",\"footer_widgets_order\",\"footer_widget_area_columns_status\",\"footer_widget_area_columns\",\"footer_bottom_items_layout\",\"footer_copyright_text\",\"footer_switcher\",\"footer_logo\",\"footer_copyright\",\"footer_social\",\"footer_logo_skin\",\"footer_logo_opacity\",\"footer_widget_area_skin\",\"footer_parallax\",\"footer_widget_area_bg_color_rgba\",\"copyright_separator\",\"copyright_color\",\"footer_bottom_area_bg_color_rgba\",\"footer_bg\",\"footer_bg_type\",\"footer_bg_image_image\",\"footer_bg_image_repeat\",\"footer_bg_image_attach\",\"footer_bg_image_position\",\"footer_bg_image_size\",\"footer_bg_image_opacity\",\"footer_bg_image_overlay\",\"footer_bg_image_overlay_type\",\"footer_bg_image_solid_overlay\",\"footer_bg_overlay_gradient_orientation\",\"footer_bg_overlay_gradient_color1\",\"footer_bg_overlay_gradient_color2\",\"footer_bg_texture\",\"footer_bg_texture_opacity\",\"footer_bg_texture_overlay\",\"footer_bg_texture_solid_overlay\",\"go_to_top_status\",\"footer_section_gototop_skin\",\"go_to_top_show\",\"sidebar-switch\",\"sidebar-position\",\"sidebar-width\",\"sidebar-skin\",\"sidebar-style\",\"sidebar-align\",\"sidebar-shadow-color\",\"page_sidebar_bg\",\"page_sidebar_bg_type\",\"page_sidebar_bg_color_type\",\"page_sidebar_bg_solid_color\",\"page_sidebar_bg_gradient_orientation\",\"page_sidebar_bg_gradient_color1\",\"page_sidebar_bg_gradient_color2\",\"page_sidebar_bg_image_image\",\"page_sidebar_bg_image_repeat\",\"page_sidebar_bg_image_attach\",\"page_sidebar_bg_image_position\",\"page_sidebar_bg_image_size\",\"page_sidebar_bg_image_opacity\",\"page_sidebar_bg_image_overlay\",\"page_sidebar_bg_image_overlay_type\",\"page_sidebar_bg_image_solid_overlay\",\"page_sidebar_bg_overlay_gradient_orientation\",\"page_sidebar_bg_overlay_gradient_color1\",\"page_sidebar_bg_overlay_gradient_color2\",\"page_sidebar_bg_texture\",\"page_sidebar_bg_texture_opacity\",\"page_sidebar_bg_texture_overlay\",\"page_sidebar_bg_texture_solid_overlay\",\"sidebar-switch-single\",\"sidebar-position-single\",\"sidebar-width-single\",\"sidebar-skin-single\",\"sidebar-style-single\",\"sidebar-align-single\",\"sidebar-shadow-color-single\",\"single_sidebar_bg\",\"single_sidebar_bg_type\",\"single_sidebar_bg_color_type\",\"single_sidebar_bg_solid_color\",\"single_sidebar_bg_gradient_orientation\",\"single_sidebar_bg_gradient_color1\",\"single_sidebar_bg_gradient_color2\",\"single_sidebar_bg_image_image\",\"single_sidebar_bg_image_repeat\",\"single_sidebar_bg_image_attach\",\"single_sidebar_bg_image_position\",\"single_sidebar_bg_image_size\",\"single_sidebar_bg_image_opacity\",\"single_sidebar_bg_image_overlay\",\"single_sidebar_bg_image_overlay_type\",\"single_sidebar_bg_image_solid_overlay\",\"single_sidebar_bg_overlay_gradient_orientation\",\"single_sidebar_bg_overlay_gradient_color1\",\"single_sidebar_bg_overlay_gradient_color2\",\"single_sidebar_bg_texture\",\"single_sidebar_bg_texture_opacity\",\"single_sidebar_bg_texture_overlay\",\"single_sidebar_bg_texture_solid_overlay\",\"sidebar-switch-shop\",\"sidebar-position-shop\",\"sidebar-width-shop\",\"sidebar-skin-shop\",\"sidebar-style-shop\",\"sidebar-align-shop\",\"sidebar-shadow-color-shop\"]"};
+var ajax_var = {"url":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-admin\/admin-ajax.php","nonce":"f0952d3052","uniqueSettings":"[\"site_width\",\"site_top\",\"site_bg\",\"site_bg_type\",\"site_bg_color_type\",\"site_bg_solid_color\",\"site_bg_gradient_orientation\",\"site_bg_gradient_color1\",\"site_bg_gradient_color2\",\"site_bg_image_image\",\"site_bg_image_repeat\",\"site_bg_image_attach\",\"site_bg_image_position\",\"site_bg_image_size\",\"site_bg_image_opacity\",\"site_bg_image_overlay\",\"site_bg_image_overlay_type\",\"site_bg_image_solid_overlay\",\"site_bg_overlay_gradient_orientation\",\"site_bg_overlay_gradient_color1\",\"site_bg_overlay_gradient_color2\",\"site_bg_texture\",\"site_bg_texture_opacity\",\"site_bg_texture_overlay\",\"site_bg_texture_solid_overlay\",\"header_position\",\"header_top_position\",\"header_theme\",\"header_side_theme\",\"logotop_logoSpace\",\"classic_style\",\"block_style\",\"gather_style\",\"header_side_align\",\"header_side_footer\",\"header_styles\",\"show_up_after\",\"show_up_style\",\"header_top_width\",\"header-top-height\",\"header-side-width\",\"header-content\",\"menu_item_style\",\"header_items_order\",\"nav_color\",\"nav_hover_color\",\"header_bg_color_type\",\"header_bg_solid_color\",\"header_bg_gradient_orientation\",\"header_bg_gradient_color1\",\"header_bg_gradient_color2\",\"logo_style\",\"header_border_enable\",\"nav_color_second\",\"nav_hover_color_second\",\"header_bg_color_type_second\",\"header_bg_solid_color_second\",\"header_bg_gradient_second_orientation\",\"header_bg_gradient_second_color1\",\"header_bg_gradient_second_color2\",\"logo_style_second\",\"popup_menu\",\"popup_menu_color\",\"overlay_bg\",\"header_side_image_image\",\"header_side_image_repeat\",\"header_side_image_position\",\"header_side_image_size\",\"menu_button_style\",\"button_bg_color\",\"button_text_color\",\"button_hover_text_color\",\"button_hover_bg_color\",\"dropdown_bg_solid_color\",\"dropdown_heading_solid_color\",\"dropdown_fg_solid_color\",\"dropdown_fg_hover_color\",\"businessBar_enable\",\"businessBar_style\",\"businessBar_social\",\"businessBar_content_color\",\"businessBar_bg_color\",\"businessBar_address\",\"businessBar_tel\",\"businessBar_email\",\"nav_name\",\"nav_size\",\"nav_weight\",\"nav_letterSpace\",\"nav_style\",\"main-width\",\"mainC-width\",\"main-top\",\"mainC-padding\",\"main_bg\",\"main_bg_color_type\",\"main_bg_solid_color\",\"main_bg_gradient_orientation\",\"main_bg_gradient_color1\",\"main_bg_gradient_color2\",\"footer_widgets_styles\",\"footer_widget_area_height\",\"footer_bottom_area_height\",\"footer-width\",\"footerC-width\",\"footer-marginT\",\"footer-marginB\",\"footer_widgets_order\",\"footer_widget_area_columns_status\",\"footer_widget_area_columns\",\"footer_bottom_items_layout\",\"footer_copyright_text\",\"footer_switcher\",\"footer_logo\",\"footer_copyright\",\"footer_social\",\"footer_logo_skin\",\"footer_logo_opacity\",\"footer_widget_area_skin\",\"footer_parallax\",\"footer_widget_area_bg_color_rgba\",\"copyright_separator\",\"copyright_color\",\"footer_bottom_area_bg_color_rgba\",\"footer_bg\",\"footer_bg_type\",\"footer_bg_image_image\",\"footer_bg_image_repeat\",\"footer_bg_image_attach\",\"footer_bg_image_position\",\"footer_bg_image_size\",\"footer_bg_image_opacity\",\"footer_bg_image_overlay\",\"footer_bg_image_overlay_type\",\"footer_bg_image_solid_overlay\",\"footer_bg_overlay_gradient_orientation\",\"footer_bg_overlay_gradient_color1\",\"footer_bg_overlay_gradient_color2\",\"footer_bg_texture\",\"footer_bg_texture_opacity\",\"footer_bg_texture_overlay\",\"footer_bg_texture_solid_overlay\",\"go_to_top_status\",\"footer_section_gototop_skin\",\"go_to_top_show\",\"sidebar-switch\",\"sidebar-position\",\"sidebar-width\",\"sidebar-skin\",\"sidebar-style\",\"sidebar-align\",\"sidebar-shadow-color\",\"page_sidebar_bg\",\"page_sidebar_bg_type\",\"page_sidebar_bg_color_type\",\"page_sidebar_bg_solid_color\",\"page_sidebar_bg_gradient_orientation\",\"page_sidebar_bg_gradient_color1\",\"page_sidebar_bg_gradient_color2\",\"page_sidebar_bg_image_image\",\"page_sidebar_bg_image_repeat\",\"page_sidebar_bg_image_attach\",\"page_sidebar_bg_image_position\",\"page_sidebar_bg_image_size\",\"page_sidebar_bg_image_opacity\",\"page_sidebar_bg_image_overlay\",\"page_sidebar_bg_image_overlay_type\",\"page_sidebar_bg_image_solid_overlay\",\"page_sidebar_bg_overlay_gradient_orientation\",\"page_sidebar_bg_overlay_gradient_color1\",\"page_sidebar_bg_overlay_gradient_color2\",\"page_sidebar_bg_texture\",\"page_sidebar_bg_texture_opacity\",\"page_sidebar_bg_texture_overlay\",\"page_sidebar_bg_texture_solid_overlay\",\"sidebar-switch-single\",\"sidebar-position-single\",\"sidebar-width-single\",\"sidebar-skin-single\",\"sidebar-style-single\",\"sidebar-align-single\",\"sidebar-shadow-color-single\",\"single_sidebar_bg\",\"single_sidebar_bg_type\",\"single_sidebar_bg_color_type\",\"single_sidebar_bg_solid_color\",\"single_sidebar_bg_gradient_orientation\",\"single_sidebar_bg_gradient_color1\",\"single_sidebar_bg_gradient_color2\",\"single_sidebar_bg_image_image\",\"single_sidebar_bg_image_repeat\",\"single_sidebar_bg_image_attach\",\"single_sidebar_bg_image_position\",\"single_sidebar_bg_image_size\",\"single_sidebar_bg_image_opacity\",\"single_sidebar_bg_image_overlay\",\"single_sidebar_bg_image_overlay_type\",\"single_sidebar_bg_image_solid_overlay\",\"single_sidebar_bg_overlay_gradient_orientation\",\"single_sidebar_bg_overlay_gradient_color1\",\"single_sidebar_bg_overlay_gradient_color2\",\"single_sidebar_bg_texture\",\"single_sidebar_bg_texture_opacity\",\"single_sidebar_bg_texture_overlay\",\"single_sidebar_bg_texture_solid_overlay\",\"sidebar-switch-shop\",\"sidebar-position-shop\",\"sidebar-width-shop\",\"sidebar-skin-shop\",\"sidebar-style-shop\",\"sidebar-align-shop\",\"sidebar-shadow-color-shop\"]"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://localhost:8888/adithi_chandrashekar/wp-content/themes/massive-dynamic/lib/assets/script/unique-setting.min.js?ver=1.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var ajax_var = {"url":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-admin\/admin-ajax.php","nonce":"974d9b8dd3"};
+var ajax_var = {"url":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-admin\/admin-ajax.php","nonce":"f0952d3052"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://localhost:8888/adithi_chandrashekar/wp-content/themes/massive-dynamic/lib/assets/script/post-like.min.js'></script>
@@ -749,7 +749,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/adithi_chandrashekar\/wp-admin\/ad
 <script type='text/javascript' src='http://localhost:8888/adithi_chandrashekar/wp-content/themes/massive-dynamic/lib/assets/script/jquery.nicescroll.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var ajax_var = {"url":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-admin\/admin-ajax.php","nonce":"974d9b8dd3"};
+var ajax_var = {"url":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-admin\/admin-ajax.php","nonce":"f0952d3052"};
 var themeOptionValues = {"site_bg_image_attach":"fixed","headerBgColorType":"solid","navColor":"rgb(112, 114, 116)","navHoverColor":"rgb(112, 114, 116)","navColorSecond":"rgb(0, 0, 0)","navHoverColorSecond":"rgb(255, 196, 0)","headerBgGradientColor1":"rgba(255,255,255,1)","headerBgGradientColor2":"rgba(255,255,255,.5)","headerBgGradientOrientation":"vertical","headerBgColorTypeSecond":"solid","headerBgGradientSecondColor1":"rgba(255,255,255,1)","headerBgGradientSecondColor2":"rgba(255,255,255,.5)","headerBgGradientSecondOrientation":"vertical","headerBgSolidColorSecond":"rgba(0, 0, 0, 0.62)","headerBgSolidColor":"rgba(238, 238, 238, 0)","businessBarEnable":"","sidebar_style":"none","page_sidebar_bg_image_position":"center-top","sidebar_style_shop":"none","shop_sidebar_bg_image_position":"center-top","sidebar_style_single":"none","single_sidebar_bg_image_position":"center-top","sidebar_style_blog":"none","blog_sidebar_bg_image_position":"center-top","showUpAfter":"413","showUpStyle":"fade_in","siteTop":"0.0","footerWidgetAreaSkin":"light","headerTopWidth":"100","layoutWidth":"100","lightLogo":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-content\/uploads\/2018\/05\/logo_big.png","darkLogo":"http:\/\/localhost:8888\/adithi_chandrashekar\/wp-content\/uploads\/2018\/05\/logo.png","logoStyle":"light","logoStyleSecond":"dark","activeNotificationTab":"posts","goToTopShow":"600","loadingType":"light","leaveMsg":"You are about to leave this page and you haven't saved changes yet, would you like to save changes before leaving?","unsaved":"Unsaved Changes!","save_leave":"Save & Leave","mailchimpNotInstalled":"MailChimp for Wordpress is not installed.","search":"Search...","payment_methods":"PAYMENT METHOD","loadingText":""};
 /* ]]> */
 </script>
@@ -866,12 +866,12 @@ function pixflow_btnSlide(btnId){"use strict";if(btnId=="staticValue"){var $shor
 		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost:8888/adithi_chandrashekar/wp-admin/profile.php">Howdy, <span class="display-name">adithi_chandrashekar</span><img alt='' src='http://1.gravatar.com/avatar/41724c971505735d160dfec2b9c93577?s=26&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/41724c971505735d160dfec2b9c93577?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
 		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost:8888/adithi_chandrashekar/wp-admin/profile.php"><img alt='' src='http://1.gravatar.com/avatar/41724c971505735d160dfec2b9c93577?s=64&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/41724c971505735d160dfec2b9c93577?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>adithi_chandrashekar</span></a>		</li>
 		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost:8888/adithi_chandrashekar/wp-admin/profile.php">Edit My Profile</a>		</li>
-		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/adithi_chandrashekar/wp-login.php?action=logout&#038;_wpnonce=49aeefa566">Log Out</a>		</li></ul></div>		</li></ul>			</div>
-						<a class="screen-reader-shortcut" href="http://localhost:8888/adithi_chandrashekar/wp-login.php?action=logout&#038;_wpnonce=49aeefa566">Log Out</a>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:8888/adithi_chandrashekar/wp-login.php?action=logout&#038;_wpnonce=6dec022c1c">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost:8888/adithi_chandrashekar/wp-login.php?action=logout&#038;_wpnonce=6dec022c1c">Log Out</a>
 					</div>
 
 		
 </body>
 </html>
-<!-- Dynamic page generated in 0.844 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2018-05-24 05:38:15 -->
+<!-- Dynamic page generated in 1.517 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-05-24 07:18:33 -->
